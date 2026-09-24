@@ -39,7 +39,7 @@ switch — all written straight back to Home Assistant entities.
 2. **Download** the `airpack-schedule-card` repository.
 3. Add a resource (HACS does it for you):
    `/hacsfiles/airpack-schedule-card/airpack-schedule-card.js` as
-   **JavaScript Module**.
+   **Dashboard**.
 4. Restart/refresh, then add the card from the Lovelace card picker.
 
 ### Manual
