@@ -1,6 +1,3 @@
-<img width="542" height="834" alt="harmo_eng" src="https://github.com/user-attachments/assets/3a6ac85e-68aa-4373-97a1-f70a267bf357" />
-
-
 # AirPack — Ventilation Schedule Card
 
 **🇬🇧 English** · [🇵🇱 Polski](README_pl.md)
@@ -127,7 +124,7 @@ seasons:
 | `vent_default_time` | string | `17:45` | Default ventilation start time (`HH:MM`) used by reset |
 
 ---
-
+<img width="542" height="834" alt="harmo_eng" src="https://github.com/user-attachments/assets/3a6ac85e-68aa-4373-97a1-f70a267bf357" />
 ## Development
 
 ```bash
