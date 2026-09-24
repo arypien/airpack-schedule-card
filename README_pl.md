@@ -40,7 +40,7 @@ godzinę **początku wietrzenia** oraz globalny przełącznik pory roku
 2. **Pobierz** repozytorium `airpack-schedule-card`.
 3. Dodaj resource (HACS zrobi to za Ciebie):
    `/hacsfiles/airpack-schedule-card/airpack-schedule-card.js` jako
-   **JavaScript Module**.
+   **Dashboard**.
 4. Zrestartuj/odśwież, następnie dodaj kartę z wybieraka kart Lovelace.
 
 ### Ręcznie
