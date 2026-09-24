@@ -1,0 +1,8 @@
+{
+  "name": "AirPack — Ventilation Schedule Card",
+  "content_in_root": false,
+  "filename": "airpack-schedule-card.js",
+  "render_readme": true,
+  "country": ["PL"],
+  "homeassistant": "2023.8.0"
+}
