@@ -126,6 +126,10 @@ seasons:
 
 ---
 
+
+<img width="535" height="856" alt="harmo_pl" src="https://github.com/user-attachments/assets/97a226a2-a59f-46ac-8de2-36e758458294" />
+
+
 ## Rozwój / testy
 
 ```bash
