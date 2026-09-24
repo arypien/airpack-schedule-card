@@ -1,5 +1,7 @@
 # AirPack — Ventilation Schedule Card
 
+**🇬🇧 English** · [🇵🇱 Polski](README_pl.md)
+
 A Home Assistant **Lovelace card** for the weekly ventilation schedule of the
 **Thesslagreen AirPack** heat-recovery recuperator. It lets you edit, per day,
 up to 4 ventilation "episodes" (start time / intensity / supply temperature),
